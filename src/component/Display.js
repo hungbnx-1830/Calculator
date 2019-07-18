@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import "./Display.css";
+import "./Display.scss";
 
 export default class Display extends React.Component {
   static propTypes = {
